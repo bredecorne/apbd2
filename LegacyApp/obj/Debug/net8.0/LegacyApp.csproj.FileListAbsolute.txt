@@ -10,3 +10,15 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/jakubkowalewski/RiderProjects/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
